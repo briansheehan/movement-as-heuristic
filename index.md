@@ -11,6 +11,8 @@ via MD6052 - Independent Study 2)
 
 **Course Director**: Dr. Sandra Joyce (MA Irish Music Studies)
 
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/EssentialAncientKronosaurus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 Annotated Bibliography
 
 ## Phelan, H., and Nunan, M. (2018) 'To write or not to write? The contested nature and role of writing in arts practice research', *Journal of Research Practice*, 14(2), Article M3, available: <http://jrp.icaap.org/index.php/jrp/article/view/592/492> \[accessed 28/01/2022\]
